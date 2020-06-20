@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MachineTest</string>
+
+    <string name="no_contact_found">No contact found</string>
+    <string name="allow_permission">Go to the your permission screen and enable the contact permission because that is mandatory</string>
+    <string name="enter_name_hint">Enter name</string>
+    <string name="dummy_number">7373617042</string>
+    <string name="dummy_name">Francis</string>
+</resources>
